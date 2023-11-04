@@ -26,24 +26,24 @@
     <h1>Test 2</h1>
     <p>Test2</p>
 
-    <h1 class ='st'>A fost odată ca-n poveşti,</h1>
+    <h1 class ='st'>codrule codrutule,</h1>
     <hr>
-    <h2>A fost ca niciodată.</h2>
+    <h2>ce mai faci dragutule.</h2>
     <hr>
-    <b class ='st'>Din rude mari împărăteşti,</b>
+    <b class ='st'>fara ploaie ,</b>
     <hr>
-    <i>O prea frumoasă fată.</i>
+    <i>ffara vant.</i>
     <hr>
     <p>
-      Cobori în jos, luceafăr blând,<br />
-  Alunecând pe-o rază,<br />
-  Pătrunde-n casă şi în gând<br />
+      cu frunzele la pamant,<br />
+  de ce nu mas legana,<br />
+  daca trece vremea mea<br />
   Şi viaţa-mi luminează!<br />
     </p>
     <hr>
     <a href = "https://www.youtube.com"> Links to YouTube </a>
     <hr>
-    <img src = "https://media.npr.org/assets/img/2017/09/12/macaca_nigra_self-portrait-3e0070aa19a7fe36e802253048411a38f14a79f8-s800-c85.webp" height = "300px" width = "300px">
+    <img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.liceuvladimirescu.md%2Fdata%2Finfo%2Flectii%2F5a91373526a167.46428088%2Findex.html&psig=AOvVaw0-O4kb3B2ZY444W1tBBM8W&ust=1699191879233000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOjdgZW9qoIDFQAAAAAdAAAAABAD" height = "300px" width = "300px">
     <br>
     <h1 style="text-align:center"><b>Classwork Nr.3</b></h1>
     <ul>
