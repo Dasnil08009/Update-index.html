@@ -43,7 +43,7 @@
     <hr>
     <a href = "https://www.youtube.com"> Links to YouTube </a>
     <hr>
-    <img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.liceuvladimirescu.md%2Fdata%2Finfo%2Flectii%2F5a91373526a167.46428088%2Findex.html&psig=AOvVaw0-O4kb3B2ZY444W1tBBM8W&ust=1699191879233000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOjdgZW9qoIDFQAAAAAdAAAAABAD" height = "300px" width = "300px">
+    <img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fro.wikipedia.org%2Fwiki%2FMihai_Eminescu&psig=AOvVaw0-O4kb3B2ZY444W1tBBM8W&ust=1699191879233000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOjdgZW9qoIDFQAAAAAdAAAAABAc" height = "300px" width = "300px">
     <br>
     <h1 style="text-align:center"><b>Classwork Nr.3</b></h1>
     <ul>
